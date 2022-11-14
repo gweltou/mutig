@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/selectionfiole.mp3-e359c2a5ee8913e214c65d6dceec3076.mp3str"
+
+[deps]
+
+source_file="res://audio/selectionfiole.mp3"
+dest_files=[ "res://.import/selectionfiole.mp3-e359c2a5ee8913e214c65d6dceec3076.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

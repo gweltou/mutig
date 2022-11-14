@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/FOULECHOKE0_0.mp3-53c937dd3874c0a0bad587dc83329580.mp3str"
+
+[deps]
+
+source_file="res://audio/FOULECHOKE0_0.mp3"
+dest_files=[ "res://.import/FOULECHOKE0_0.mp3-53c937dd3874c0a0bad587dc83329580.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

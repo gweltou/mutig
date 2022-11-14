@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Mandies master1.ogg-999dfccaa8e19d1270282c02f2dae2c7.oggstr"
+
+[deps]
+
+source_file="res://audio/BO/Mandies master1.ogg"
+dest_files=[ "res://.import/Mandies master1.ogg-999dfccaa8e19d1270282c02f2dae2c7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

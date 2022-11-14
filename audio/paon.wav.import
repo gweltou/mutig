@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/paon.wav-aee05709c6ae4c8e060655cbbf3bc21a.sample"
+
+[deps]
+
+source_file="res://audio/paon.wav"
+dest_files=[ "res://.import/paon.wav-aee05709c6ae4c8e060655cbbf3bc21a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

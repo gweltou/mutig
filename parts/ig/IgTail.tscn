@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://parts/ig/iguan queue.png" type="Texture" id=1]
+
+[node name="IgTail" type="Sprite"]
+texture = ExtResource( 1 )
+offset = Vector2( -266, -9 )
+
+[node name="vec" type="Line2D" parent="."]
+points = PoolVector2Array( 1, 1, 80, 1 )

@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://parts/lion/lion corps.png" type="Texture" id=1]
+
+[node name="LionBody" type="Sprite"]
+texture = ExtResource( 1 )
+
+[node name="vecHead" type="Line2D" parent="."]
+points = PoolVector2Array( 249, -133, 303, -160 )
+
+[node name="vecTail" type="Line2D" parent="."]
+points = PoolVector2Array( -370, -103, -421, -140 )
+
+[node name="vecHind" type="Line2D" parent="."]
+points = PoolVector2Array( -338, 77, -339, 129 )
+
+[node name="vecFront" type="Line2D" parent="."]
+points = PoolVector2Array( 162, 152, 164, 211 )

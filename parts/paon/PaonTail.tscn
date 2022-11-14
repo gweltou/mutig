@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://parts/paon/paon queue.png" type="Texture" id=1]
+
+[node name="PaonTail" type="Sprite"]
+texture = ExtResource( 1 )
+offset = Vector2( -249, -203 )
+
+[node name="vec" type="Line2D" parent="."]
+points = PoolVector2Array( 0, 0, 35, 20 )

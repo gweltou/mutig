@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cheap lean.ogg-09b4e965e06425698a18c9f62759f828.oggstr"
+
+[deps]
+
+source_file="res://audio/BO/cheap lean.ogg"
+dest_files=[ "res://.import/cheap lean.ogg-09b4e965e06425698a18c9f62759f828.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://BO.gd" type="Script" id=1]
+
+[node name="BO" type="AudioStreamPlayer"]
+volume_db = -10.0
+script = ExtResource( 1 )
+
+[connection signal="finished" from="." to="." method="_on_BO_finished"]

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ebu2.wav-b9e864cc02cbbe8c60d4a44f5b153e3e.sample"
+
+[deps]
+
+source_file="res://audio/ebu2.wav"
+dest_files=[ "res://.import/ebu2.wav-b9e864cc02cbbe8c60d4a44f5b153e3e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
